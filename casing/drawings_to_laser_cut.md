@@ -1,0 +1,20 @@
+# Drawings to cut
+
+![cutprints](https://user-images.githubusercontent.com/31654421/40780828-10d1cb1a-64da-11e8-836a-e9a3d0e6b468.png)
+
+These are the drawings used to make the casing. The drawing on the left creates a thin wall, in the prototype I stacked 7 of these wall parts of 3mm MDF. 
+The drawing on the right is the front and the backpanel. In the prototype, the front panel is made of 3mm acrylic and the back panel 3mm MDF.
+
+## Sizes
+The width of the bird, measured from its tail to the tip of its beak, is 265 mm. 
+My advise is to make the casing slighly bigger so the electronics will fit better.
+
+## Assemble
+
+![img_2201](https://user-images.githubusercontent.com/31654421/40783415-92f4ac86-64e2-11e8-97da-666904ba1b95.jpg)
+
+The parts are stacked as shown; the acrylic front plane at the bottom, followed by 7 wall parts. These parts are but together by 5 long bolts with a nut on top.
+The bolt at the position of the eye of the bird has a spacer around it to support the back panel.
+
+![img_2202](https://user-images.githubusercontent.com/31654421/40783538-0327cf1a-64e3-11e8-8f4f-f05d8a975eca.jpg)
+
