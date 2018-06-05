@@ -1,9 +1,17 @@
-# Drawings to cut
+# Process
 
+## Drawings to cut
 ![cutprints](https://user-images.githubusercontent.com/31654421/40780828-10d1cb1a-64da-11e8-836a-e9a3d0e6b468.png)
 
 These are the drawings used to make the casing. The drawing on the left creates a thin wall, in the prototype I stacked 7 of these wall parts of 3 mm MDF. 
 The drawing on the right is the front and the backpanel. In the prototype, the front panel is made of 3 mm acrylic and the back panel 3mm MDF.
+
+### Settings laser cutter
+The settings of the laser cutter were:
+MDF 3 mm : 
+Speed : 50, Power : 80, Corner Power : 25
+Acrylic 3 mm :
+Speed : ##, Power : ##, Corner Power : ##
 
 ## Sizes
 The width of the bird, measured from its tail to the tip of its beak, is 265 mm. 
