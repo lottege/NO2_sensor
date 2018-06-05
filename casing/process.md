@@ -28,7 +28,7 @@ The bolt at the position of the eye of the bird has a spacer of 15 mm around it 
 
 ## Backpanel
 
-I drilled some holes in the back panel to be able to attach the components.
+I drilled some holes in the back panel to be able to attach the components. The hole I drilled for the DC motor was too big but it needed to have a firm grip to make the housing rotate. To make this firm grip, I used a small piece of rubber found in the fablab. 
 
 ![measurements](https://user-images.githubusercontent.com/31654421/40968509-02c5c438-68b6-11e8-9ec4-5352b50f88a2.jpg)
 
