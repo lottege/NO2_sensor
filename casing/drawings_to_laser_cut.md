@@ -22,4 +22,8 @@ The bolt at the position of the eye of the bird has a spacer of 15 mm around it 
 
 I drilled some holes in the back panel to be able to attach the components.
 
+![measurements](https://user-images.githubusercontent.com/31654421/40968509-02c5c438-68b6-11e8-9ec4-5352b50f88a2.jpg)
+
 ![img_2205](https://user-images.githubusercontent.com/31654421/40784389-d450489a-64e5-11e8-956f-ddba2a0ca207.jpg)
+
+![img_2200](https://user-images.githubusercontent.com/31654421/40968841-c8224eb8-68b6-11e8-9efa-981e5a8dc6c6.jpg)
