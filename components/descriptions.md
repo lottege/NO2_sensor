@@ -13,6 +13,11 @@ The Jameco relia pro needs 12 V, this is why we needed a power supply that was s
 In this case, it would be a better fit to have a wireless power supply, since the object rotates, and to be placed more easily. 
 
 ## A/D Converter
+To use the ads1115 adafruit a/d converter, we used the library Adafruit_ADS1015.h in the arduino code. 
+Using this converter, we were able to read the small differences the NO2 sensor measures. The converter of the Arduino is not precise enough for these measurements.
+
+https://cdn-learn.adafruit.com/downloads/pdf/adafruit-4-channel-adc-breakouts.pdf
+
 ## Circuit board
 ### Tiltswitch
 ### Motordriver
