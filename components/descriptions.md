@@ -1,4 +1,4 @@
-# Descriptions
+# Component descriptions
 ![components](https://user-images.githubusercontent.com/31654421/40971480-1034dc5a-68be-11e8-9307-9f7e7ecde65f.jpg)
 
 ## NO2 sensor
@@ -19,6 +19,11 @@ Using this converter, we were able to read the small differences the NO2 sensor 
 https://cdn-learn.adafruit.com/downloads/pdf/adafruit-4-channel-adc-breakouts.pdf
 
 ## Circuit board
+The circuit board is not as structured as I hoped but it works. The motordriver, the tiltswitch and a resistor are on the back of the board while the dc motor and the powersupply are connected to the front. 
+
+![img_2211](https://user-images.githubusercontent.com/31654421/41039772-c35cd792-699a-11e8-8019-fc1010be7bb1.jpg)
+![img_2208](https://user-images.githubusercontent.com/31654421/41039788-cc8b80f2-699a-11e8-8721-16809df29891.jpg)
+
 ### Tiltswitch
 ### Motordriver
 ### Circuit
