@@ -34,9 +34,9 @@ This schematic circuit shows more clear what the circuit looks like:
 ![bird circuit](https://user-images.githubusercontent.com/31654421/41159503-04911dfc-6b2d-11e8-90c6-c00dcc495404.jpg)
 
 ## Tiltswitch
+Using a tilt switch, the bird always knows in what position it's hanging.
 This is the tilt switch used in the prototype:
 https://uk.rs-online.com/web/p/non-mercury-tilt-switches/3615087/
 This image (source: http://iamtechnical.com/tilt-switch) shows how tilt switches work:
 ![tilt-switch](https://user-images.githubusercontent.com/31654421/41160310-8938efba-6b2f-11e8-83e4-a8784ac12387.jpg)
-Using the tilt switch, the bird always knows in what position it's hanging.
 
