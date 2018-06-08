@@ -2,6 +2,9 @@
 ![components](https://user-images.githubusercontent.com/31654421/40971480-1034dc5a-68be-11e8-9307-9f7e7ecde65f.jpg)
 
 ## NO2 sensor
+The used NO2 sensor is the Alphasense no2-b43f. Previous tests with the specific sensors led to a formula to calculate the correct NO2 concentration from the measurements of the sensor. This formula can be found in   
+http://www.alphasense.com/index.php/products/nitrogen-dioxide-2/
+
 ## DC motor
 In this prototype we used a Jameco relia pro 253471. We started with a smaller 6V dc motor but it was not strong enough to rotate the bird. Therefore we switched to this stronger motor. Something remarkable about the use of the motor is that the motor itself is connected to the object, and the small pin is fixed. In this way the motor spins instead of the small pin coming out of the motor. 
 
