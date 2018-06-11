@@ -21,19 +21,19 @@ Using this converter, we were able to read the small differences the NO2 sensor 
 
 https://cdn-learn.adafruit.com/downloads/pdf/adafruit-4-channel-adc-breakouts.pdf
 
-## Motordriver
+## Motor driver
 This driver is used to be able to control the speed, the direction and the duration of the rotation of the motor. Triple check if the wires are connected correctly! A small mix up could destroy the motor driver, by blowing up the protection diode. 
 
-Hookup guide motor driver:
+Hook-up guide motor driver:
 https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide?_ga=2.230587740.1734036102.1528462719-1433206558.1520845841
 
 ## Circuit board
-The circuit board is not as structured as I hoped but it works. The motordriver, the tiltswitch and a resistor are on the back of the board while the dc motor and the powersupply are connected to the front. 
+The circuit board is not as structured as I hoped but it works. The motor driver, the tilt switch and a resistor are on the back of the board while the dc motor and the power supply are connected to the front. 
 
 ![img_2211](https://user-images.githubusercontent.com/31654421/41039772-c35cd792-699a-11e8-8019-fc1010be7bb1.jpg)
 ![img_2208](https://user-images.githubusercontent.com/31654421/41039788-cc8b80f2-699a-11e8-8721-16809df29891.jpg)
 
-This schematic circuit shows more clear what the circuit looks like:
+This schematic circuit clearer shows what the circuit looks like:
 ![bird circuit](https://user-images.githubusercontent.com/31654421/41159503-04911dfc-6b2d-11e8-90c6-c00dcc495404.jpg)
 
 ## Tiltswitch
