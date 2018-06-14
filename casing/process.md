@@ -11,7 +11,7 @@ The settings of the laser cutter were:
 MDF 3 mm : 
 Speed : 50, Power : 80, Corner Power : 25
 Acrylic 3 mm :
-Speed : ##, Power : ##, Corner Power : ##
+Speed : 50 Power : 80 Corner Power : 25
 
 ## Sizes
 The width of the bird, measured from its tail to the tip of its beak, is 265 mm. 
